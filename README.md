@@ -1,8 +1,7 @@
 ## Hello World! 👋
 
-**AdrianGaston/AdrianGaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome to my repository! Here you will find information about me and my projects.
+<br>
 
 - 🔭 I’m currently working on a hotel management project that aims to improve user experience and streamline operations.
 - 🎒 I’m currently learning about software development at Senac, focusing on Java and web technologies.
