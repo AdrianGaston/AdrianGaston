@@ -41,7 +41,6 @@ Here are some ideas to get you started:
       alt="Gmail"
     />
   </a>
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/adriánherrmann/" target="_blank">
     <img 
@@ -51,4 +50,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+##
 
