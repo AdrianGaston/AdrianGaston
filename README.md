@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Atualmente estou trabalhando em projeto de hotelaria,pretendendo mudar de carreria na area de programação
+- 🔭 I’m currently working on ...Atualmente estou trabalhando em projeto de hotelaria.
 - 🎒 I’m currently learning ...Estou estudando desenvolvedor de sistemas pelo Senac
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
