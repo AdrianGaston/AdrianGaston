@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <div>
   <!-- Gmail -->
-  <a href="mailto:lumbia.85@gmail.com" target="_blank">
+  <a href = "mailto:lumbia.85@gmail.com" target="_blank">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Gmail"
