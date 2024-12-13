@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ##
 
-- 📊 Fun fact: ...
+- 📊 My GitHub stats: ...
 <div>
   <a href="https://beacons.ai/adriangaston">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianGaston&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
