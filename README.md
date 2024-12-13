@@ -4,12 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Atualmente estou trabalhando em projeto de hotelaria.
-- 🎒 I’m currently learning ...Estou estudando desenvolvedor de sistemas pelo Senac
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a hotel management project that aims to improve user experience and streamline operations.
+- 🎒 I’m currently learning about software development at Senac, focusing on Java and web technologies.
+- 👯 I’m looking to collaborate on projects related to web development and database management.
+- 🤔 I’m looking for help with best practices in coding and project management.
+- ⚡ un fact: I love hiking and exploring new places whenever I get the chance! 🌄
 
 ##
 - 🖥 Technologies I use: ...
