@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🎒 I’m currently learning about software development at Senac, focusing on Java and web technologies.
 - 👯 I’m looking to collaborate on projects related to web development and database management.
 - 🤔 I’m looking for help with best practices in coding and project management.
-- ⚡ un fact: I love hiking and exploring new places whenever I get the chance! 🌄
+- ⚡ Fun fact: I love hiking and exploring new places whenever I get the chance! 🌄
 ##
 - 🖥 Technologies I use: ...
   
