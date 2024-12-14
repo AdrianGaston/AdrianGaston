@@ -4,10 +4,10 @@
 <br>
 
 - 🔭 I’m currently working on a hotel management project that aims to improve user experience and streamline operations.
-- 🎒 I’m currently learning about software development at Senac, focusing on Java and web technologies.
-- 👯 I’m looking to collaborate on projects related to web development and database management.
+- 🎒 I’m currently learning about software development at Senac, focusing on Java, MySQL and web technologies.
+- 👯 I’m looking for opportunities to collaborate on projects related to software development, database management and related areas.
 - 🤔 I’m looking for help with best practices in coding and project management.
-- ⚡ Fun fact: I love hiking and exploring new places whenever I get the chance! 🌄
+- ⚡ Fun fact: I enjoy developing new applications with the aim of improving performance in everyday activities.
 ##
 - 🖥 Technologies I use: ...
   
