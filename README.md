@@ -20,10 +20,12 @@
   <img align="center" alt="HTML5" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="CSS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="JavaScript" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Bootstrap" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="JQuery" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+  <img align="center" alt="SpringBoot" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Git" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Github" height="40" width="auto" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
-     style="filter: brightness(0) saturate(100%) invert(33%) sepia(93%) saturate(3480%) hue-rotate(354deg) brightness(100%) contrast(100%);" />     
+  <img align="center" alt="Github" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
+     style="filter: brightness(0) saturate(100%) invert(33%) sepia(93%) saturate(3480%) hue-rotate(354deg) brightness(100%) contrast(100%);" />
 </div>
 
 ##
