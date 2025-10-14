@@ -26,8 +26,9 @@
   <img align="center" alt="Git" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Github" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
      style="filter: brightness(0) saturate(100%) invert(33%) sepia(93%) saturate(3480%) hue-rotate(354deg) brightness(100%) contrast(100%);" />
+  <img align="center" alt="n8n" height="40" width="auto" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" />
 </div>
-<img align="center" alt="Git" height="40" width="auto" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" />
+
 
 ##
 
