@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working on a web project developed with Lovable, integrating modern tools and best practices for web development.
-- 🎒 I’m currently learning about software development at Senac, focusing on Java, MySQL and web technologies.
+- 🌱 I’m currently improving my skills through hands-on web development projects.
 - 👯 I’m looking for opportunities to collaborate on projects related to software development, database management and related areas.
 - 🤔 I’m looking for help with best practices in coding and project management.
 - ⚡ Fun fact: I enjoy developing new applications with the aim of improving performance in everyday activities.
